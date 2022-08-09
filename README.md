@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @19kms70
-- 👀 I’m interested in automation 
+- 👀 I'm interested in programming, testing and automation
 - 🌱 I’m currently learning python
-- 💞️ I am looking for cooperation with mobile operators
+- 💞️ I am looking for cooperation with mobile operators and IT company
 - 📫 How to reach me 19.kms.70@gmail.ru
 
 <!---
